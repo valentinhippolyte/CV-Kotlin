@@ -18,7 +18,8 @@ fun App() {
         val skills = listOf(
             Skill("Symfony", 0.8),
             Skill("Git", 0.9),
-            Skill("AngularJs", 0.7)
+            Skill("AngularJs", 0.7),
+            Skill("Kotlin", 0.5)
         )
 
         val languages = listOf(
